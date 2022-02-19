@@ -4,6 +4,7 @@
 
 
 Instruções
+<br>
 Criar um projeto typescript com:
 
 Uma classe chamada “Person” em um arquivo chamado “person.ts” com os atributos firstName, middleName, lastName e age e com os métodos getFullName and getBirthdayYear
